@@ -1,0 +1,34 @@
+--- TEMA 1 ---
+1- Riscos e Compliance é um dos componentes de Governança de Ti. Qual a melhor definição para riscos nesse contexto ?
+
+Resposta: O componente risco está relacionado aos riscos da TI que podem afetar o negócio
+
+2- De acordo com o que você aprendeu neste módulo, sobre Gestão de TI e seus problemas, escolha uma das opções que apresente o principal objetivo da Governança de TI.
+
+Resposta: Facilitar o alinhamento de TI com o negócio.
+
+3- Pelo que estudamos sobre níveis organizacionais e a analogia com a estrutura de gerenciamento da Ti, como podemos identificar quem é o patrocinador da implantação do programa de governança de ti?
+
+Resposta: A alta administração
+
+4- Considere a afirmação a seguir e verifique se está correta e o porquê. O alinhamento estratégico da ti com o negócio pode ser medido pelo grau de alinhamento do serviço de ti com as atuais e as futuras necessidades do negócio
+
+Resposta: A afirmação está correta, pois o alinhamento estratégico deve ser alinhado com os serviços de ti.
+
+5- Qual dos frameworks a seguir é um conjunto de orientações descrevendo as melhores práticas para um processo integrado do gerenciamento de serviços em TI?
+
+Resposta: ITIL
+
+6- O gerente de Ti, Sr. Agnaldo, que é funcionário mais antigo da TI, fez uma compra de 1000 licenças de um software XYZ. Indagado o porquê de tal compra, pois na verdade precisavam apenas de 100 licenças. Qual dos princípios da Norma NBR ISO/IES 38500 ele não respeitou?
+
+Resposta: Aquisição
+
+7- Uma organização governamental está adotando a governança de TI para melhorar a eficiência dos seus serviços. Eles querem garantir que suas práticas estejam em conformidade com padrões internacionais reconhecidos. Qual padrão internacional é apropriado para a governança de TI nesta organização?
+
+Resposta: ISO/IEC 38500
+
+8- Quais dos princípios abaixo de boa governança de ti estão entre os princípios estabelecidos na norma NBR ISO/IEC 38500:2009?
+
+Resposta: Aquisição, Comportamento Humano e Conformidade
+
+--- FIM TEMA 1 ---

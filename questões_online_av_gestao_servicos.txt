@@ -32,3 +32,112 @@ Resposta: ISO/IEC 38500
 Resposta: Aquisição, Comportamento Humano e Conformidade
 
 --- FIM TEMA 1 ---
+
+--- TEMA 2 ---
+9- Com o aumento da importância da TI nas organizações, surgiram vários desafios para as equipes de TI em relação ao alinhamento com negócio, EXCETO:
+
+Reposta: Instalar novos servidores
+
+
+10- A biblioteca da ITIL é melhor descrita como ?
+
+Resposta: Um conjunto das melhores práticas para o gerenciamento de serviços de TI
+
+11- Em que fase do ciclo de vida a Estratégia de serviço é transformada em um plano para realizar os objetivos de negocio ?
+
+Resposta: Desenho de serviço
+
+12- Qual das afirmativas NÃO CORRESPONDE à fase de estratégia de serviço ?
+
+Resposta: Fornece orientações sobre como gerenciar os serviços no ambiente de produção, de modo que seja alcançada a eficácia e eficiência na entrega e suporte aos serviços, com o objetivo de assegurar o valor do cliente.
+
+13- Quais dos atributos abaixo não estão relacionados ao PAN ?
+
+Resposta: Desempenho
+
+
+14- Quais das afirmativas abaixo está incorreta em relação ao conceito de criação de valor?
+
+Resposta: O valor de um serviço somente pode ser quantificado por meio do seu valor financeiro
+
+15- Em qual parte do portifólio estão os serviços disponíveis para uso ?
+
+Resposta: Catálogo de serviço
+
+16- Qual das alternativas não caracterizam um PAN ?
+
+Resposta: Estabelece um equilíbrio entre as aquisições de consumo e a capacidade produtiva
+
+17- São razões para adoção da ITIL, EXCETO?
+
+Resposta: A ITIL descreve práticas que permitem às organizações atender às suas próprias necessidades
+
+18- O gerenciamento Financeiro da ITIL desempenha um papel fundamental na gestão de recursos financeiros de TI. Ele permite que as organizações compreendam e controlem os custos, otimizem os investimentos em TI e demonstrem
+
+-- FIM TEMA 2 ---
+
+--- TEMA 3 ---
+19- o Gerenciamento de Serviços de TO pode contribuir para a qualidade dos serviços de TI de que forma?
+
+Resposta: Planejando, implementando e gerenciando processos específicos para o fornecimento dos serviços de TI
+
+20- Qual das seguintes afirmações é responsabilidade do gerente de catálogo de serviços?
+
+Resposta: Assegurar a informação correta dentro do catálogo de serviços
+
+21- Qual atividade a seguir podemos garantir que faz parte do processo de gerenciamento da disponibilidade ?
+
+Resposta: Acordos da disponibilidade dos serviços de ti entre ti e as áreas de negócio
+
+22- Quais os três subprocessos de gerenciamento de capacidade de serviços
+
+Resposta: Ger. de Capacidade do negócio, Ger. da Capacidade de Serviço e Ger. da Capacidade do Componente
+
+23- O acesso aos dados fornecidos para a administração financeira da XYZ só pode ser feito por usuários autorizados. O gerenciamento da segurança toma providências para garantir isso. Através dessas ações, qual aspecto dos dados pode ser garantido?
+
+Resposta: Confiabilidade
+
+24- Qual conceito faz parte do gerenciamento da continuidade do serviços em TI?
+
+Resposta: Resiliência
+
+25- Podemos afirmar que a responsabilidade do gerente de fornecedores é:
+
+Resposta: Monitorar as entregas e o cumprimento dos ANS
+
+26- O que são fornecedores estratégicos?
+
+Resposta: Fornecedores estratégicos são os fornecedores que possuem alto risco e impacto para o negócio da empresa
+
+27- A organização MNO está enfrentando desafios com a continuidade dos seus serviços de TI durante desastres. Eles perceberam a necessidade de um plano robusto de continuidade de serviço para garantir a resiliência operacional. Qual elemento é mais importante para reforçar a continuidade de serviço na organização MNO ?
+
+Resposta: Desenvolvimento de um plano de continuidade robusto
+
+28- A companhia PQR está analisando o desempenho de seus fornecedores de Ti para melhorar a qualidade dos serviços oferecidos. Eles entendem que um bom gerenciamento de fornecedores impacta diretamente na qualidade final dos serviços.
+Qual é a chave para melhorar a qualidade dos serviços de Ti na companhia PQR?
+
+Resposta: Avaliação criteriosa do desempenho dos fornecedores.
+
+
+29- A empresa STU está implementando medidas de Seguranaça da Informação para proteger dados críticos. Eles estão avaliando diferentes estratégias para mitigar riscos e garantir a confidencialidade, integridade  da informações.
+Qual estratégia é mais eficaz para a Segurança da Informação na empresa STU?
+
+Resposta: Implementação de protocolos de segurança robustos
+
+
+30- A proporção de um desastre, em se tratando do gerenciamento da continuidade dos serviços em TI, depende de :
+
+Resposta: Do impacto que o desastre terá nos serviços de Ti, consequentemente, nas áreas de negócio
+
+
+31- A empresa XYZ está revisando seu Catálogo de serviços de Ti para melhor atender às demandas de seus clientes. Eles reconhecem a importância de manter um catálogo atualizado e alinhado com as expectativas do mercado.
+Qual ação é fundamental para otimizar o catálogo de serviço de TI da empresa XYZ?
+
+Resposta: Atualização constante do catálogo de serviços
+
+32- Um departamento de Ti da sua empresa fez um acordo com um fornecedor  externo. Qual instrumento esse departamento deve utilizar com esse fornecedor?
+
+Resposta: COntratos de Apoio (CA)
+
+-- FIM TEMA 3 ---
+
